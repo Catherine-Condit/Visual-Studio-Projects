@@ -4,6 +4,6 @@
 // Write your JavaScript code.
 // Adding an event listener for DOM content loaded
 document.addEventListener("DOMContentLoaded", function () {
-    const box = document.getElementById("animateBox");
-    box.style.animation = "moveBox 5s infinite";
+    const box = document.getElementById("animateCircle");
+    box.style.animation = "moveCircle 5s infinite";
 });
